@@ -1,0 +1,10 @@
+Document: libismrmrd-doc
+Title: ISMRMRD API Documentation
+Author: ISMRMRD developers
+Abstract: This documentation describes the ISMRMRD library API.
+Section: Science/Physics
+
+Format: HTML
+Index: /usr/share/doc/libismrmrd-dev/html/api/index.html
+Files: /usr/share/doc/libismrmrd-dev/html/api/*.html
+

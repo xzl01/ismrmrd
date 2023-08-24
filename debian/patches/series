@@ -1,0 +1,4 @@
+Disable-HTML-timestamps.patch
+Add-support-for-multiarch.patch
+remove-travis-build-status.patch
+add_static_lib.patch

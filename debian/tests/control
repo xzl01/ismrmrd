@@ -1,0 +1,6 @@
+Test-Command: cd $AUTOPKGTEST_TMP
+ ; cmake /usr/share/doc/libismrmrd-dev/examples/c/
+ ; make -j$(nproc)
+ ; ./ismrmrd_c_example
+Depends: @, cmake, g++ | c++-compiler
+Restrictions: allow-stderr

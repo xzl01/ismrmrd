@@ -1,0 +1,5 @@
+ismrmrd-tools: no-manual-page usr/bin/ismrmrd_generate_cartesian_shepp_logan
+ismrmrd-tools: no-manual-page usr/bin/ismrmrd_info
+ismrmrd-tools: no-manual-page usr/bin/ismrmrd_read_timing_test
+ismrmrd-tools: no-manual-page usr/bin/ismrmrd_recon_cartesian_2d
+ismrmrd-tools: no-manual-page usr/bin/ismrmrd_test_xml
